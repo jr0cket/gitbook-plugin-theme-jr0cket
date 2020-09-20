@@ -1,5 +1,5 @@
 {
-  "name": "gitbook-plugin-theme-code",
+  "name": "gitbook-plugin-theme-jr0cket",
   "keywords": [
     "gitbook",
     "plugin",
@@ -8,7 +8,7 @@
   "description": "A GitBook theme for websites focusing on code",
   "main": "./index.js",
   "private": false,
-  "version": "0.0.24",
+  "version": "0.0.25",
   "engines": {
     "gitbook": ">=3.0.0"
   },
@@ -31,12 +31,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Yakima-Teng/gitbook-plugin-theme-code.git"
+    "url": "https://github.com/jr0cket/gitbook-plugin-theme-jr0cket.git"
   },
-  "author": "Yakima Teng. <cleveryun@163.com>",
+  "author": "John Stevenson <john@jr0cket.co.uk>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/Yakima-Teng/gitbook-plugin-theme-code/issues"
+      "url": ""https://github.com/jr0cket/gitbook-plugin-theme-jr0cket.git/issues"
   },
   "gitbook": {
     "properties": {
