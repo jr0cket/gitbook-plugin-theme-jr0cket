@@ -33,10 +33,10 @@
     "type": "git",
     "url": "https://github.com/jr0cket/gitbook-plugin-theme-jr0cket.git"
   },
-  "author": "John Stevenson <john@jr0cket.co.uk>",
+  "author": "John Stevenson.<john@jr0cket.co.uk>",
   "license": "Apache-2.0",
   "bugs": {
-      "url": ""https://github.com/jr0cket/gitbook-plugin-theme-jr0cket.git/issues"
+    "url": "https://github.com/jr0cket/gitbook-plugin-theme-jr0cket.git/issues"
   },
   "gitbook": {
     "properties": {
